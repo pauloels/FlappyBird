@@ -1,10 +1,10 @@
-## FlappyBird
+# FlappyBird
 
-# Sobre o jojo
+## Sobre o jojo
 
 Criei minha versão do jogo Flappy Bird, um jogo móvel simples e viciante em que o jogador controla um pássaro, tocando na tela para fazê-lo voar entre canos verdes sem colidir. O objetivo é passar pelo maior número de canos possível, tornando-o desafiador e recompensador.
 
-# Como rodar o projeto
+## Como rodar o projeto
 
 xcode configurado:
 yarn ios
@@ -12,7 +12,7 @@ yarn ios
 Configurar android studio:
 yarn android
 
-# Layout mobile
+## Layout mobile
 
 Start:
 
