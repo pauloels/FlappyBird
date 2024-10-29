@@ -20,4 +20,4 @@ Start:
 
 Game:
 
-<img src="(src/assets/Simulator Screenshot - iPhone 15 Pro - 2024-10-29 at 14.50.18.png" width="20%">
+<img src="(https://github.com/pauloels/FlappyBird/blob/main/src/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-10-29%20at%2014.50.18.png" width="20%">
