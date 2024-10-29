@@ -6,14 +6,16 @@ Criei minha versão do jogo Flappy Bird, um jogo móvel simples e viciante em qu
 
 # Como rodar o projeto
 
-xcode configurado
+xcode configurado:
 yarn ios
 
-Configurar android studio
+Configurar android studio:
 yarn android
 
 # Layout mobile
 
-<img src="https://github.com/pauloels/FlappyBird/blob/main/src/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-10-29%20at%2014.50.14.png" width="20%">
+<div>
+    <img src="https://github.com/pauloels/FlappyBird/blob/main/src/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-10-29%20at%2014.50.14.png" width="20%">
 
 <img src="(https://github.com/pauloels/FlappyBird/blob/main/src/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-10-29%20at%2014.50.18.png" width="20%">
+</div>
